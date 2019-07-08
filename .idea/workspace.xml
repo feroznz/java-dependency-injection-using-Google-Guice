@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd4b0de-03a0-4132-ba6f-8665996c0f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/test/java/com/company/ordersystem/service/OrderServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-dependency-injection-using-Google-Guice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-dependency-injection-using-Google-Guice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/ordersystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ordersystem/ordersystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ordersystem/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/src/test/java/com/company/ordersystem/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ordersystem/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,15 +52,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ordersystem/src/test/java/com/company/ordersystem/service/OrderServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1411">
-              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="332">
+              <caret line="172" column="1" lean-forward="true" selection-start-line="172" selection-start-column="1" selection-end-line="172" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#testOrderTotal#0;class#OrderServiceTest#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -140,6 +138,7 @@
         <option value="$PROJECT_DIR$/ordersystem/pom.xml" />
         <option value="$PROJECT_DIR$/ordersystem/src/test/java/com/company/ordersystem/service/OrderServiceTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -173,62 +172,7 @@
             <path>
               <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +285,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562561151274</updated>
-      <workItem from="1562561152603" duration="5218000" />
+      <workItem from="1562561152603" duration="6104000" />
     </task>
     <servers />
   </component>
@@ -354,28 +298,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5218000" />
+    <option name="totallyTimeSpent" value="6104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2390" y="137" width="1382" height="905" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2631976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2631976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.22692889" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.43589744" />
       <window_info anchor="bottom" id="Terminal" weight="0.24508321" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33873144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33873144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,6 +336,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,12 +490,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ordersystem/src/test/java/com/company/ordersystem/service/OrderServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="332">
+          <caret line="172" column="1" lean-forward="true" selection-start-line="172" selection-start-column="1" selection-end-line="172" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#testOrderTotal#0;class#OrderServiceTest#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
