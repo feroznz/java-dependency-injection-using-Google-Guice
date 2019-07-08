@@ -7,7 +7,7 @@ Google Guice to the rescue!
 **Google Guice: https://github.com/google/guice**
 
 
-DI using Guice in 2 steps:
+DI using Guice in 3 steps:
 1. Define binding
 ```public class OrderModule extends AbstractModule {
     @Override
@@ -16,7 +16,14 @@ DI using Guice in 2 steps:
     }
 }
 ```
-2. Build object using injector
+2. User @Inject annotation on the service constructor
+```
+ @Inject
+ public OrderService(Order order) {
+     this.order = order;
+ }
+```
+3. Build object using injector
 ```
 Injector injector = Guice.createInjector(new OrderModule());
 OrderService orderService = injector.getInstance(OrderService.class);
