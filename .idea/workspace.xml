@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd4b0de-03a0-4132-ba6f-8665996c0f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/BaseBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/CoffeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ordersystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/impl/OrderImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ordersystem/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +18,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ordersystem/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="289">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/impl/OrderImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="88" column="20" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,6 +119,8 @@
       <list>
         <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/Ingredient.java" />
         <option value="$PROJECT_DIR$/ordersystem/pom.xml" />
+        <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/Order.java" />
+        <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/impl/OrderImpl.java" />
       </list>
     </option>
   </component>
@@ -165,6 +186,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
+              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
+              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +223,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.ordersystem.service.impl" />
+      <recent name="com.company.ordersystem.service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem" />
     </key>
@@ -207,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562561151274</updated>
-      <workItem from="1562561152603" duration="643000" />
+      <workItem from="1562561152603" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643000" />
+    <option name="totallyTimeSpent" value="909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2367" y="270" width="1169" height="782" extended-state="0" />
@@ -223,12 +269,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27313566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19766398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.31229773" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2038835" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -300,8 +346,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ordersystem/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="289">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/impl/OrderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="88" column="20" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
