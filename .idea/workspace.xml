@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd4b0de-03a0-4132-ba6f-8665996c0f97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordersystem/target/classes/com/company/ordersystem/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/ordersystem/target/classes/com/company/ordersystem/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ordersystem/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,14 +66,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="408">
+                <caret line="24" selection-start-line="24" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -119,15 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/model/Ingredient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -150,6 +151,7 @@
         <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/di/OrderModule.java" />
         <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/service/OrderService.java" />
         <option value="$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/App.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -161,8 +163,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2427" />
-    <option name="y" value="133" />
+    <option name="x" value="2390" />
+    <option name="y" value="217" />
     <option name="width" value="1118" />
     <option name="height" value="825" />
   </component>
@@ -190,30 +192,6 @@
               <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
               <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-dependency-injection-using-Google-Guice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dependency-injection-using-Google-Guice" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ordersystem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,29 +259,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562561151274</updated>
-      <workItem from="1562561152603" duration="2807000" />
+      <workItem from="1562561152603" duration="4264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2807000" />
+    <option name="totallyTimeSpent" value="4264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2427" y="133" width="1118" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="2390" y="217" width="1118" height="825" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18832392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20338982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.22692889" />
-      <window_info anchor="bottom" id="Terminal" weight="0.34725276" />
+      <window_info anchor="bottom" id="Version Control" weight="0.22692889" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24508321" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -427,11 +404,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ordersystem/src/main/java/com/company/ordersystem/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
